@@ -1,4 +1,6 @@
-# Hola! Soy <a href="https://664835a7abb34a86a1c6e420--courageous-creponne-04012b.netlify.app" target="blank">SimioDev</a> 🐒, Desarrollador Web. 
+# Hola! Soy <a href="https://664835a7abb34a86a1c6e420--courageous-creponne-04012b.netlify.app" target="blank">SimioDev</a> 🐒, Desarrollador Web. <img src="https://komarev.com/ghpvc/?username=SimioDev&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/>
+
+
 
 <hr>
 <span align="center">
@@ -6,17 +8,27 @@
     <h4 align="center">"<em>Si lo puedes imaginar, lo puedes programar</em>"
       <span align="center">Alejandro Taboada Sanchez</span>
     </h4>
+  </span>
 </span>
 <hr>
+
+
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> Sobre mí
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 230px></picture>
+
+- Mi nombre es Nestor Cabrera, actualmente poseo `18 años` de edad.
+- <strong>`Dos años desarrollando`</strong> y aprendiendo diversos lenguajes de programación.
+- Estudiando actualmente `Ingeniería de Software`, quinto semestre.
+- Enfocado en el `Desarrollo Full Stack`.
+- Abierto ante oportunidades laborales, <strong>`Trabajemos juntos!`</strong>
+<br>
+
+
   
 # <b> Github Stats </b>
-<br>
 
 <div align="center">
 
-<a href="https://github.com/SimioDev/">
-  <img src="https://github-readme-stats.vercel.app/api?username=SimioDev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SimioDev&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="SimioDev"/>
-
-</a>
 </div>
