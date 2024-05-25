@@ -14,7 +14,7 @@
 
 
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 23px></picture> Sobre mí
+##  <!--<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 23px></picture>--> 👨‍💻 Sobre mí
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 230px></picture>
 
@@ -50,7 +50,7 @@
 
 ------
 
-Realizado por: [SimioDev](https://github.com/SimioDev)
+<strong>Realizado por:</strong> [SimioDev](https://github.com/SimioDev)
 
-Fecha de última edición: 24/05/2024
+<strong>Fecha de última edición:</strong> 24/05/2024
 
