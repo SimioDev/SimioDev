@@ -23,7 +23,7 @@
 - Estudiando actualmente `Ingeniería de Software`, quinto semestre.
 - Enfocado en el `Desarrollo Full Stack`.
 - Abierto ante oportunidades laborales, <strong>`Trabajemos juntos!`</strong>
-- Puedes visitar mi portfolio web <a href="https://664835a7abb34a86a1c6e420--courageous-creponne-04012b.netlify.app" target="blank">AQUÍ</a>.
+- Puedes visitar mi portfolio web <a href="https://simiodev.xyz" target="blank">AQUÍ</a>.
 
 <a href="mailto:nestcdev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/nestcdev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <p><img src="https://komarev.com/ghpvc/?username=SimioDev&label=Visitas%20al%20Perfil&color=8861D6&style=for-the-badge&logo=star" alt="SimioDev" style="padding-right:20px;" /></p>
