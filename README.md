@@ -18,9 +18,9 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 230px></picture>
 
-- Mi nombre es Nestor Cabrera, actualmente poseo `18 años` de edad.
+- Mi nombre es Nestor Cabrera, actualmente poseo `19 años` de edad.
 - <strong>`Dos años desarrollando`</strong> y aprendiendo diversos lenguajes de programación.
-- Estudiando actualmente `Ingeniería de Software`, quinto semestre.
+- Estudiando actualmente `Ingeniería de Software`, Sexto semestre.
 - Enfocado en el `Desarrollo Full Stack`.
 - Abierto ante oportunidades laborales, <strong>`Trabajemos juntos!`</strong>
 - Puedes visitar mi portfolio web <a href="https://simiodev.xyz" target="blank">AQUÍ</a>.
