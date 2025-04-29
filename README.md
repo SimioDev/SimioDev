@@ -1,32 +1,28 @@
-# Hola! Soy <a href="https://simiodev.xyz" target="_blank">SimioDev</a> 🐒, Software Developer. 
-
-
+# Hi! I'm <a href="https://simiodev.xyz" target="_blank">SimioDev</a> 🐒, Software Developer from Colombia 🇨🇴
 
 <hr>
 <span align="center">
   <span>
-    <h4 align="center">"<em>Si lo puedes imaginar, lo puedes programar</em>"
+    <h4 align="center">"<em>If you can imagine it, you can program it</em>"
       <span align="center">Alejandro Taboada Sanchez</span>
     </h4>
   </span>
 </span>
 <hr>
 
-
-
-##  <!--<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 23px></picture>--> 👨‍💻 Sobre mí
+## 👨‍💻 About Me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 230px></picture>
 
-- Mi nombre es Nestor Cabrera, actualmente poseo `19 años` de edad.
-- <strong>`Dos años desarrollando`</strong> y aprendiendo diversos lenguajes de programación.
-- Estudiando actualmente `Ingeniería de Software`, Sexto semestre.
-- Enfocado en el `Desarrollo Full Stack`.
-- Abierto ante oportunidades laborales, <strong>`Trabajemos juntos!`</strong>
-- Puedes visitar mi portfolio web <a href="https://simiodev.xyz" target="_blank">AQUÍ</a>.
+- My name is Nestor Cabrera, Software Development Technologist.
+- <strong>`Four years developing`</strong> and learning various programming languages.
+- Currently studying `Software Engineering`, Seventh semester.
+- Focused on `Full Stack Development`.
+- Open to job opportunities, <strong>`Let's work together!`</strong>
+- You can visit my portfolio website <a href="https://simiodev.xyz" target="_blank">HERE</a>.
 
 <a href="mailto:nestcdev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/nestcdev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<p><img src="https://komarev.com/ghpvc/?username=SimioDev&label=Visitas%20al%20Perfil&color=8861D6&style=for-the-badge&logo=star" alt="SimioDev" style="padding-right:20px;" /></p>
+<p><img src="https://komarev.com/ghpvc/?username=SimioDev&label=Profile%20Views&color=8861D6&style=for-the-badge&logo=star" alt="SimioDev" style="padding-right:20px;" /></p>
 
 ## 💻 Tech Stack
 
@@ -42,6 +38,8 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Argo](https://img.shields.io/badge/argo-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)
 ![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
 ![Astro](https://img.shields.io/badge/astro-%23FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white) 
@@ -49,14 +47,13 @@
 
 </div>
 
-## 🏆 Top Lenguajes Utilizados
+## 🏆 Top Languages Used
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimioDev&layout=compact&theme=dark&bg_color=0A0A0A" alt="SimioDev Top Languages"/>
 </div>
 
 ------
 
-<strong>Realizado por:</strong> [SimioDev](https://github.com/SimioDev)
+<strong>Created by:</strong> [SimioDev](https://github.com/SimioDev)
 
-<strong>Fecha de última edición:</strong> 24/05/2024
-
+<strong>Last updated:</strong> 29/04/2025
