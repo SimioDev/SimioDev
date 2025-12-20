@@ -16,10 +16,10 @@
 
 - My name is Nestor Cabrera, Software Development Technologist.
 - <strong>`Four years developing`</strong> and learning various programming languages.
-- Currently studying `Software Engineering`, Seventh semester.
+- Currently studying `Software Engineering`, ninth semester.
 - Focused on `Full Stack Development`.
 - Open to job opportunities, <strong>`Let's work together!`</strong>
-- You can visit my portfolio website <a href="https://simiodev.xyz" target="_blank">HERE</a>.
+- You can visit my portfolio website <a href="https://simiodev-portfolio.vercel.app/" target="_blank">HERE</a>.
 
 <a href="mailto:nestcdev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/nestcdev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <p><img src="https://komarev.com/ghpvc/?username=SimioDev&label=Profile%20Views&color=8861D6&style=for-the-badge&logo=star" alt="SimioDev" style="padding-right:20px;" /></p>
@@ -54,4 +54,4 @@
 
 <strong>Created by:</strong> [SimioDev](https://github.com/SimioDev)
 
-<strong>Last updated:</strong> 29/04/2025
+<strong>Last updated:</strong> 20/12/2025
