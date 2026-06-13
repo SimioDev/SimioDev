@@ -1,5 +1,5 @@
 <!-- ============ HEADER ============ -->
-<a href="https://simiodev.xyz" target="_blank">
+<a href="https://www.linkedin.com/in/nestor-cabrera" target="_blank">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8861D6,100:0FB6C9&height=200&section=header&text=SimioDev&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header"/>
 </a>
 
@@ -12,7 +12,7 @@
 
 <!-- ============ SOCIAL / CONNECT ============ -->
 <div align="center">
-  <a href="https://simiodev.xyz" target="_blank"><img src="https://img.shields.io/badge/Website-8861D6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nestor-cabrera" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://simiodev-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:nestcdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=SimioDev&label=Profile%20Views&color=0FB6C9&style=for-the-badge&logo=star" alt="profile views" />
