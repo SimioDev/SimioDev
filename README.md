@@ -1,6 +1,6 @@
 <!-- ============ HEADER ============ -->
 <a href="https://simiodev.xyz" target="_blank">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8861D6,100:0FB6C9&height=200&section=header&text=SimioDev%20%F0%9F%90%92&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%26%20DevOps%20from%20Colombia&descAlignY=58&descSize=18" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8861D6,100:0FB6C9&height=200&section=header&text=SimioDev&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="header"/>
 </a>
 
 <!-- ============ TYPING SVG ============ -->
